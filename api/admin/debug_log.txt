@@ -1,0 +1,704 @@
+=== 2026-04-03 10:44:03 ===
+Token: 6dd3d9962ab55bdc991d471161c48195e78a9203f299ad36a59f663e1e847980
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 6dd3d9962ab55bdc991d471161c48195e78a9203f299ad36a59f663e1e847980
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 10:44:02
+    [is_active] => 1
+    [created_at] => 2026-04-03 10:44:02
+)
+
+Expires at: 2026-04-10 10:44:02 (1775792642)
+Now: 2026-04-03 10:44:03 (1775187843)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 10:44:06 ===
+Token: 6dd3d9962ab55bdc991d471161c48195e78a9203f299ad36a59f663e1e847980
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 6dd3d9962ab55bdc991d471161c48195e78a9203f299ad36a59f663e1e847980
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 10:44:03
+    [expires_at] => 2026-04-10 10:44:02
+    [is_active] => 1
+    [created_at] => 2026-04-03 10:44:02
+)
+
+Expires at: 2026-04-10 10:44:02 (1775792642)
+Now: 2026-04-03 10:44:06 (1775187846)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 10:54:43 ===
+Token: 6dd3d9962ab55bdc991d471161c48195e78a9203f299ad36a59f663e1e847980
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 6dd3d9962ab55bdc991d471161c48195e78a9203f299ad36a59f663e1e847980
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 10:54:43
+    [expires_at] => 2026-04-10 10:44:02
+    [is_active] => 1
+    [created_at] => 2026-04-03 10:44:02
+)
+
+Expires at: 2026-04-10 10:44:02 (1775792642)
+Now: 2026-04-03 10:54:43 (1775188483)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 11:18:01 ===
+Token: 6dd3d9962ab55bdc991d471161c48195e78a9203f299ad36a59f663e1e847980
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 6dd3d9962ab55bdc991d471161c48195e78a9203f299ad36a59f663e1e847980
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 11:18:01
+    [expires_at] => 2026-04-10 10:44:02
+    [is_active] => 1
+    [created_at] => 2026-04-03 10:44:02
+)
+
+Expires at: 2026-04-10 10:44:02 (1775792642)
+Now: 2026-04-03 11:18:01 (1775189881)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 11:41:59 ===
+Token: 6dd3d9962ab55bdc991d471161c48195e78a9203f299ad36a59f663e1e847980
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 6dd3d9962ab55bdc991d471161c48195e78a9203f299ad36a59f663e1e847980
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 11:41:59
+    [expires_at] => 2026-04-10 10:44:02
+    [is_active] => 1
+    [created_at] => 2026-04-03 10:44:02
+)
+
+Expires at: 2026-04-10 10:44:02 (1775792642)
+Now: 2026-04-03 11:41:59 (1775191319)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 11:43:12 ===
+Token: b4acc4cf4e85071efecc0a0b8a062486a55db667871ea4c59cc546be73b9913b
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => b4acc4cf4e85071efecc0a0b8a062486a55db667871ea4c59cc546be73b9913b
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 11:43:11
+    [is_active] => 1
+    [created_at] => 2026-04-03 11:43:11
+)
+
+Expires at: 2026-04-10 11:43:11 (1775796191)
+Now: 2026-04-03 11:43:12 (1775191392)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 11:49:21 ===
+Token: 5dd0a1e112cd00b284ac14086b6d646cb25ee78b67aedb7c15e5a380530ffe14
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 5dd0a1e112cd00b284ac14086b6d646cb25ee78b67aedb7c15e5a380530ffe14
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 11:49:19
+    [is_active] => 1
+    [created_at] => 2026-04-03 11:49:19
+)
+
+Expires at: 2026-04-10 11:49:19 (1775796559)
+Now: 2026-04-03 11:49:21 (1775191761)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 14:14:28 ===
+Token: af6671082ff589d2936510669df50df4c5d3cda46f1e84241430facef2cd4328
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => af6671082ff589d2936510669df50df4c5d3cda46f1e84241430facef2cd4328
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 14:14:27
+    [is_active] => 1
+    [created_at] => 2026-04-03 14:14:27
+)
+
+Expires at: 2026-04-10 14:14:27 (1775805267)
+Now: 2026-04-03 14:14:28 (1775200468)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 14:14:54 ===
+Token: ac63b3b9732e5dc8e7740a694115d5718d541e7f27559a67c391a77207987f15
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => ac63b3b9732e5dc8e7740a694115d5718d541e7f27559a67c391a77207987f15
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 14:14:53
+    [is_active] => 1
+    [created_at] => 2026-04-03 14:14:53
+)
+
+Expires at: 2026-04-10 14:14:53 (1775805293)
+Now: 2026-04-03 14:14:54 (1775200494)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 14:20:30 ===
+Token: 49ba16337cce3ce037ac9c322444dad3be9aa00aa4af8c3d2cce268ad8b0d847
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 49ba16337cce3ce037ac9c322444dad3be9aa00aa4af8c3d2cce268ad8b0d847
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 14:20:29
+    [is_active] => 1
+    [created_at] => 2026-04-03 14:20:29
+)
+
+Expires at: 2026-04-10 14:20:29 (1775805629)
+Now: 2026-04-03 14:20:30 (1775200830)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 14:27:21 ===
+Token: 49ba16337cce3ce037ac9c322444dad3be9aa00aa4af8c3d2cce268ad8b0d847
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 49ba16337cce3ce037ac9c322444dad3be9aa00aa4af8c3d2cce268ad8b0d847
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 14:27:20
+    [expires_at] => 2026-04-10 14:20:29
+    [is_active] => 1
+    [created_at] => 2026-04-03 14:20:29
+)
+
+Expires at: 2026-04-10 14:20:29 (1775805629)
+Now: 2026-04-03 14:27:21 (1775201241)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 14:42:36 ===
+Token: 49ba16337cce3ce037ac9c322444dad3be9aa00aa4af8c3d2cce268ad8b0d847
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 49ba16337cce3ce037ac9c322444dad3be9aa00aa4af8c3d2cce268ad8b0d847
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 14:42:35
+    [expires_at] => 2026-04-10 14:20:29
+    [is_active] => 1
+    [created_at] => 2026-04-03 14:20:29
+)
+
+Expires at: 2026-04-10 14:20:29 (1775805629)
+Now: 2026-04-03 14:42:36 (1775202156)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 14:51:54 ===
+Token: 27da4e0ccadd83bce2d3b83b26a8ae6d76ec494bce725abaa7b10182292af05f
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 27da4e0ccadd83bce2d3b83b26a8ae6d76ec494bce725abaa7b10182292af05f
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 14:51:53
+    [is_active] => 1
+    [created_at] => 2026-04-03 14:51:53
+)
+
+Expires at: 2026-04-10 14:51:53 (1775807513)
+Now: 2026-04-03 14:51:55 (1775202715)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 15:13:20 ===
+Token: 27da4e0ccadd83bce2d3b83b26a8ae6d76ec494bce725abaa7b10182292af05f
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 27da4e0ccadd83bce2d3b83b26a8ae6d76ec494bce725abaa7b10182292af05f
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 15:13:19
+    [expires_at] => 2026-04-10 14:51:53
+    [is_active] => 1
+    [created_at] => 2026-04-03 14:51:53
+)
+
+Expires at: 2026-04-10 14:51:53 (1775807513)
+Now: 2026-04-03 15:13:20 (1775204000)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 15:14:37 ===
+Token: 5d08ee0ac44cd4903f0aee6aedd20f6b9f25b812b0bb917b7bb43189010af05e
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 5d08ee0ac44cd4903f0aee6aedd20f6b9f25b812b0bb917b7bb43189010af05e
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 15:14:36
+    [is_active] => 1
+    [created_at] => 2026-04-03 15:14:36
+)
+
+Expires at: 2026-04-10 15:14:36 (1775808876)
+Now: 2026-04-03 15:14:37 (1775204077)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 15:29:59 ===
+Token: 5d08ee0ac44cd4903f0aee6aedd20f6b9f25b812b0bb917b7bb43189010af05e
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 5d08ee0ac44cd4903f0aee6aedd20f6b9f25b812b0bb917b7bb43189010af05e
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 15:29:58
+    [expires_at] => 2026-04-10 15:14:36
+    [is_active] => 1
+    [created_at] => 2026-04-03 15:14:36
+)
+
+Expires at: 2026-04-10 15:14:36 (1775808876)
+Now: 2026-04-03 15:29:59 (1775204999)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 17:03:59 ===
+Token: 5d08ee0ac44cd4903f0aee6aedd20f6b9f25b812b0bb917b7bb43189010af05e
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 5d08ee0ac44cd4903f0aee6aedd20f6b9f25b812b0bb917b7bb43189010af05e
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 17:03:59
+    [expires_at] => 2026-04-10 15:14:36
+    [is_active] => 1
+    [created_at] => 2026-04-03 15:14:36
+)
+
+Expires at: 2026-04-10 15:14:36 (1775808876)
+Now: 2026-04-03 17:04:00 (1775210640)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 17:04:32 ===
+Token: ad18bf4552d7768befaac18860ea770e468d45780ba486b99591dc34da54b73a
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => ad18bf4552d7768befaac18860ea770e468d45780ba486b99591dc34da54b73a
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 17:04:31
+    [is_active] => 1
+    [created_at] => 2026-04-03 17:04:31
+)
+
+Expires at: 2026-04-10 17:04:31 (1775815471)
+Now: 2026-04-03 17:04:32 (1775210672)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 17:31:20 ===
+Token: ad18bf4552d7768befaac18860ea770e468d45780ba486b99591dc34da54b73a
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => ad18bf4552d7768befaac18860ea770e468d45780ba486b99591dc34da54b73a
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 17:31:20
+    [expires_at] => 2026-04-10 17:04:31
+    [is_active] => 1
+    [created_at] => 2026-04-03 17:04:31
+)
+
+Expires at: 2026-04-10 17:04:31 (1775815471)
+Now: 2026-04-03 17:31:20 (1775212280)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 17:31:34 ===
+Token: 754c676db5900ebe68d3702cfb6481f6fe2e9912ecc72063ff620d7c1498e7b2
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 754c676db5900ebe68d3702cfb6481f6fe2e9912ecc72063ff620d7c1498e7b2
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 17:31:32
+    [is_active] => 1
+    [created_at] => 2026-04-03 17:31:32
+)
+
+Expires at: 2026-04-10 17:31:32 (1775817092)
+Now: 2026-04-03 17:31:34 (1775212294)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 17:33:20 ===
+Token: 927c8546ef942e293dd81fa72f4b95a18c57c7019e0c303fd5dbfabf5510a1ed
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 927c8546ef942e293dd81fa72f4b95a18c57c7019e0c303fd5dbfabf5510a1ed
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 17:33:18
+    [is_active] => 1
+    [created_at] => 2026-04-03 17:33:18
+)
+
+Expires at: 2026-04-10 17:33:18 (1775817198)
+Now: 2026-04-03 17:33:20 (1775212400)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 17:55:54 ===
+Token: 927c8546ef942e293dd81fa72f4b95a18c57c7019e0c303fd5dbfabf5510a1ed
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 927c8546ef942e293dd81fa72f4b95a18c57c7019e0c303fd5dbfabf5510a1ed
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 17:55:53
+    [expires_at] => 2026-04-10 17:33:18
+    [is_active] => 1
+    [created_at] => 2026-04-03 17:33:18
+)
+
+Expires at: 2026-04-10 17:33:18 (1775817198)
+Now: 2026-04-03 17:55:54 (1775213754)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 17:56:08 ===
+Token: 042744657de5a9fd3d5b17851bad399131fd3b25be5cb2ce0af6f36e6b6a6985
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 042744657de5a9fd3d5b17851bad399131fd3b25be5cb2ce0af6f36e6b6a6985
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 17:56:07
+    [is_active] => 1
+    [created_at] => 2026-04-03 17:56:07
+)
+
+Expires at: 2026-04-10 17:56:07 (1775818567)
+Now: 2026-04-03 17:56:08 (1775213768)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 18:37:16 ===
+Token: 042744657de5a9fd3d5b17851bad399131fd3b25be5cb2ce0af6f36e6b6a6985
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 042744657de5a9fd3d5b17851bad399131fd3b25be5cb2ce0af6f36e6b6a6985
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 18:37:15
+    [expires_at] => 2026-04-10 17:56:07
+    [is_active] => 1
+    [created_at] => 2026-04-03 17:56:07
+)
+
+Expires at: 2026-04-10 17:56:07 (1775818567)
+Now: 2026-04-03 18:37:16 (1775216236)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 18:37:29 ===
+Token: 0435deb416439d99beeeb184f0b89166c0d42db5639ec0f6d6a404504f9dff55
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => 0435deb416439d99beeeb184f0b89166c0d42db5639ec0f6d6a404504f9dff55
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 18:37:27
+    [is_active] => 1
+    [created_at] => 2026-04-03 18:37:28
+)
+
+Expires at: 2026-04-10 18:37:27 (1775821047)
+Now: 2026-04-03 18:37:29 (1775216249)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 18:57:45 ===
+Token: d16e2d8412554e5a42bbb59a6cf4d847652cd63edd12c46e646d7a561ed8aa91
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => d16e2d8412554e5a42bbb59a6cf4d847652cd63edd12c46e646d7a561ed8aa91
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 18:57:43
+    [is_active] => 1
+    [created_at] => 2026-04-03 18:57:43
+)
+
+Expires at: 2026-04-10 18:57:43 (1775822263)
+Now: 2026-04-03 18:57:45 (1775217465)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 19:15:54 ===
+Token: d16e2d8412554e5a42bbb59a6cf4d847652cd63edd12c46e646d7a561ed8aa91
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => d16e2d8412554e5a42bbb59a6cf4d847652cd63edd12c46e646d7a561ed8aa91
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 19:15:53
+    [expires_at] => 2026-04-10 18:57:43
+    [is_active] => 1
+    [created_at] => 2026-04-03 18:57:43
+)
+
+Expires at: 2026-04-10 18:57:43 (1775822263)
+Now: 2026-04-03 19:15:54 (1775218554)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 19:26:28 ===
+Token: d16e2d8412554e5a42bbb59a6cf4d847652cd63edd12c46e646d7a561ed8aa91
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => d16e2d8412554e5a42bbb59a6cf4d847652cd63edd12c46e646d7a561ed8aa91
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 19:26:27
+    [expires_at] => 2026-04-10 18:57:43
+    [is_active] => 1
+    [created_at] => 2026-04-03 18:57:43
+)
+
+Expires at: 2026-04-10 18:57:43 (1775822263)
+Now: 2026-04-03 19:26:28 (1775219188)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 19:46:19 ===
+Token: d16e2d8412554e5a42bbb59a6cf4d847652cd63edd12c46e646d7a561ed8aa91
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => d16e2d8412554e5a42bbb59a6cf4d847652cd63edd12c46e646d7a561ed8aa91
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 19:46:19
+    [expires_at] => 2026-04-10 18:57:43
+    [is_active] => 1
+    [created_at] => 2026-04-03 18:57:43
+)
+
+Expires at: 2026-04-10 18:57:43 (1775822263)
+Now: 2026-04-03 19:46:19 (1775220379)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 20:22:21 ===
+Token: d16e2d8412554e5a42bbb59a6cf4d847652cd63edd12c46e646d7a561ed8aa91
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => d16e2d8412554e5a42bbb59a6cf4d847652cd63edd12c46e646d7a561ed8aa91
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-03 20:22:20
+    [expires_at] => 2026-04-10 18:57:43
+    [is_active] => 1
+    [created_at] => 2026-04-03 18:57:43
+)
+
+Expires at: 2026-04-10 18:57:43 (1775822263)
+Now: 2026-04-03 20:22:21 (1775222541)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-03 20:25:12 ===
+Token: aba356302ae6a15c802ef62cf5876d64e58344c7c067658edd91610628097a6f
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => aba356302ae6a15c802ef62cf5876d64e58344c7c067658edd91610628097a6f
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 
+    [expires_at] => 2026-04-10 20:25:11
+    [is_active] => 1
+    [created_at] => 2026-04-03 20:25:11
+)
+
+Expires at: 2026-04-10 20:25:11 (1775827511)
+Now: 2026-04-03 20:25:12 (1775222712)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
+=== 2026-04-04 07:30:14 ===
+Token: aba356302ae6a15c802ef62cf5876d64e58344c7c067658edd91610628097a6f
+Rows found: 1
+Token data: Array
+(
+    [id] => 0
+    [user_id] => 1
+    [token] => aba356302ae6a15c802ef62cf5876d64e58344c7c067658edd91610628097a6f
+    [name] => Flutter Mobile App Login
+    [permissions] => 
+    [last_used_at] => 2026-04-04 07:30:13
+    [expires_at] => 2026-04-10 20:25:11
+    [is_active] => 1
+    [created_at] => 2026-04-03 20:25:11
+)
+
+Expires at: 2026-04-10 20:25:11 (1775827511)
+Now: 2026-04-04 07:30:14 (1775262614)
+Is expired: NO
+Token VALID for user_id: 1
+==================
+
