@@ -1,0 +1,94 @@
+[2026-05-15 06:53:54] === ADMIN DASHBOARD START ===
+[2026-05-15 06:53:54] Session ID: e5611bf491d17883b64ae7ea063a7651
+[2026-05-15 06:53:54] Session data: Array
+(
+)
+
+[2026-05-15 06:53:54] Message period: 30days (30 days)
+[2026-05-15 06:53:54] User period: 30days (30 days)
+[2026-05-15 06:53:54] Is logged in: NO
+[2026-05-15 06:53:54] Is admin: NO
+[2026-05-15 06:53:54] User not logged in, redirecting to login
+[2026-05-15 07:56:14] === ADMIN DASHBOARD START ===
+[2026-05-15 07:56:14] Session ID: 3b9aefba3cc41f16fc8ee4023432d5f6
+[2026-05-15 07:56:14] Session data: Array
+(
+)
+
+[2026-05-15 07:56:14] Message period: 30days (30 days)
+[2026-05-15 07:56:14] User period: 30days (30 days)
+[2026-05-15 07:56:14] Is logged in: NO
+[2026-05-15 07:56:14] Is admin: NO
+[2026-05-15 07:56:14] User not logged in, redirecting to login
+[2026-05-15 07:56:30] === ADMIN DASHBOARD START ===
+[2026-05-15 07:56:30] Session ID: 3b9aefba3cc41f16fc8ee4023432d5f6
+[2026-05-15 07:56:30] Session data: Array
+(
+    [last_regeneration] => 1778806577
+    [csrf_token] => a0d77e8b3980aec1a0c5ed4de64580be1e01874b56c95d888e29b44b136b949f
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 81234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1778806590
+)
+
+[2026-05-15 07:56:30] Message period: 30days (30 days)
+[2026-05-15 07:56:30] User period: 30days (30 days)
+[2026-05-15 07:56:30] Is logged in: YES
+[2026-05-15 07:56:30] Is admin: YES
+[2026-05-15 07:56:30] CSRF token generated: a0d77e8b39...
+[2026-05-15 07:56:30] Core files loaded
+[2026-05-15 07:56:30] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\FlyEnv-Data\app\apache-2.4.66\Apache24\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\FlyEnv-Data\app\apache-2.4.66\Apache24\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-05-15 07:56:30] Attempting database connection
+[2026-05-15 07:56:30] Database connected successfully
+[2026-05-15 07:56:30] Total users: 60
+[2026-05-15 07:56:30] Total messages: 10
+[2026-05-15 07:56:30] Pending messages: 1
+[2026-05-15 07:56:30] Expired messages: 0
+[2026-05-15 07:56:30] Recent messages count: 10
+[2026-05-15 07:56:30] Message stats count: 13
+[2026-05-15 07:56:30] Daily messages data count: 0 for period: 30days
+[2026-05-15 07:56:30] Message status data count: 4
+[2026-05-15 07:56:30] User growth data count: 0 for period: 30days
+[2026-05-15 07:56:30] Users by type data count: 12
+[2026-05-15 07:56:30] Top users count: 5
+[2026-05-15 07:56:30] Response stats - DATA: Array
+(
+    [total_messages] => 0
+    [responded] => 
+    [response_rate] => 
+)
+
+[2026-05-15 07:56:30] === CHECKING EXPORT PARAMETERS ===
+[2026-05-15 07:56:30] GET export parameter: NOT SET
+[2026-05-15 07:56:30] No export parameter detected, rendering normal dashboard
+[2026-05-15 07:56:30] === SCRIPT END ===
+[2026-05-15 09:21:46] === ADMIN DASHBOARD START ===
+[2026-05-15 09:21:46] Session ID: c31303afb585f9c35e6c9967e5893434
+[2026-05-15 09:21:46] Session data: Array
+(
+)
+
+[2026-05-15 09:21:46] Message period: 30days (30 days)
+[2026-05-15 09:21:46] User period: 30days (30 days)
+[2026-05-15 09:21:46] Is logged in: NO
+[2026-05-15 09:21:46] Is admin: NO
+[2026-05-15 09:21:46] User not logged in, redirecting to login

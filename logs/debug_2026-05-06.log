@@ -1,0 +1,72 @@
+[2026-05-06 01:24:24] === ADMIN DASHBOARD START ===
+[2026-05-06 01:24:24] Session ID: 2271cd29d59ff46551753dbdbdd40831
+[2026-05-06 01:24:24] Session data: Array
+(
+    [last_regeneration] => 1778005252
+    [csrf_token] => 1ad961edfba309bc1f28327a745873f6846d69fc82f3dc36fa71cee4767a50ff
+    [login_attempts] => 0
+    [user_id] => 1
+    [username] => admin
+    [user_type] => Admin
+    [nama_lengkap] => Administrator Sistem
+    [email] => admin@smkn12jakarta.sch.id
+    [nis_nip] => ADM001
+    [kelas] => 
+    [jurusan] => 
+    [mata_pelajaran] => 
+    [privilege_level] => Full_Access
+    [phone_number] => 81234567890
+    [avatar] => default-avatar.png
+    [login_time] => 1778005463
+)
+
+[2026-05-06 01:24:24] Message period: 30days (30 days)
+[2026-05-06 01:24:24] User period: 30days (30 days)
+[2026-05-06 01:24:24] Is logged in: YES
+[2026-05-06 01:24:24] Is admin: YES
+[2026-05-06 01:24:24] CSRF token generated: 1ad961edfb...
+[2026-05-06 01:24:24] Core files loaded
+[2026-05-06 01:24:24] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\FlyEnv-Data\app\apache-2.4.66\Apache24\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\FlyEnv-Data\app\apache-2.4.66\Apache24\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-05-06 01:24:24] Attempting database connection
+[2026-05-06 01:24:24] Database connected successfully
+[2026-05-06 01:24:24] Total users: 60
+[2026-05-06 01:24:24] Total messages: 10
+[2026-05-06 01:24:24] Pending messages: 1
+[2026-05-06 01:24:24] Expired messages: 0
+[2026-05-06 01:24:24] Recent messages count: 10
+[2026-05-06 01:24:24] Message stats count: 13
+[2026-05-06 01:24:24] Daily messages data count: 0 for period: 30days
+[2026-05-06 01:24:24] Message status data count: 4
+[2026-05-06 01:24:24] User growth data count: 0 for period: 30days
+[2026-05-06 01:24:24] Users by type data count: 12
+[2026-05-06 01:24:24] Top users count: 5
+[2026-05-06 01:24:24] Response stats - DATA: Array
+(
+    [total_messages] => 0
+    [responded] => 
+    [response_rate] => 
+)
+
+[2026-05-06 01:24:24] === CHECKING EXPORT PARAMETERS ===
+[2026-05-06 01:24:24] GET export parameter: NOT SET
+[2026-05-06 01:24:24] No export parameter detected, rendering normal dashboard
+[2026-05-06 01:24:24] === SCRIPT END ===
+[2026-05-06 01:24:50] === ADMIN DASHBOARD START ===
+[2026-05-06 01:24:50] Session ID: 4377b1558b737326e83c5ca4acb578a7
+[2026-05-06 01:24:50] Session data: Array
+(
+)
+
+[2026-05-06 01:24:50] Message period: 30days (30 days)
+[2026-05-06 01:24:50] User period: 30days (30 days)
+[2026-05-06 01:24:50] Is logged in: NO
+[2026-05-06 01:24:50] Is admin: NO
+[2026-05-06 01:24:50] User not logged in, redirecting to login

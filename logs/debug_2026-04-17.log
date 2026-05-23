@@ -1,0 +1,77 @@
+[2026-04-17 08:32:26] === SCRIPT START ===
+[2026-04-17 08:32:26] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-04-17 08:32:26] Request Method: GET
+[2026-04-17 08:32:26] GET Parameters: Array
+(
+)
+
+[2026-04-17 08:32:27] Core files loaded
+[2026-04-17 08:33:26] === SCRIPT START ===
+[2026-04-17 08:33:26] Request URI: /responsive-message-app/modules/admin/dashboard.php
+[2026-04-17 08:33:26] Request Method: GET
+[2026-04-17 08:33:26] GET Parameters: Array
+(
+)
+
+[2026-04-17 08:33:26] Core files loaded
+[2026-04-17 08:33:26] Auth check passed
+[2026-04-17 08:33:26] User session data - DATA: Array
+(
+    [user_type] => Admin
+    [privilege_level] => Full_Access
+    [session_id] => p8lqmi5ikm857mrkqqvst035ds
+    [session_data] => Array
+        (
+            [last_regeneration] => 1776389583
+            [csrf_token] => d694b373a2d36cd3a067d289c6dda886a8388054738c5481379b0907d60a958d
+            [login_attempts] => 0
+            [user_id] => 1
+            [username] => admin
+            [user_type] => Admin
+            [nama_lengkap] => Administrator Sistem
+            [email] => admin@smkn12jakarta.sch.id
+            [nis_nip] => ADM001
+            [kelas] => 
+            [jurusan] => 
+            [mata_pelajaran] => 
+            [privilege_level] => Full_Access
+            [phone_number] => 081234567890
+            [avatar] => default-avatar.png
+            [login_time] => 1776389606
+        )
+
+)
+
+[2026-04-17 08:33:26] Library check - DATA: Array
+(
+    [pdf_library_available] => YES
+    [pdf_path] => C:\xampp\htdocs\responsive-message-app\vendor\fpdf\fpdf.php
+    [excel_library_available] => YES
+    [excel_path] => C:\xampp\htdocs\responsive-message-app\vendor\phpoffice\phpspreadsheet\src\PhpSpreadsheet\Spreadsheet.php
+    [vendor_autoload_exists] => YES
+)
+
+[2026-04-17 08:33:26] Attempting database connection
+[2026-04-17 08:33:26] Database connected successfully
+[2026-04-17 08:33:26] Total users: 60
+[2026-04-17 08:33:26] Total messages: 10
+[2026-04-17 08:33:26] Pending messages: 1
+[2026-04-17 08:33:26] Expired messages: 0
+[2026-04-17 08:33:26] Recent messages count: 10
+[2026-04-17 08:33:26] Message stats count: 13
+[2026-04-17 08:33:26] User growth data count: 0
+[2026-04-17 08:33:26] Message status data count: 4
+[2026-04-17 08:33:26] Daily messages data count: 0
+[2026-04-17 08:33:26] Users by type data count: 12
+[2026-04-17 08:33:26] Top users count: 5
+[2026-04-17 08:33:26] Response stats - DATA: Array
+(
+    [total_messages] => 0
+    [responded] => 
+    [response_rate] => 
+)
+
+[2026-04-17 08:33:26] === CHECKING EXPORT PARAMETERS ===
+[2026-04-17 08:33:26] GET export parameter: NOT SET
+[2026-04-17 08:33:26] No export parameter detected, rendering normal dashboard
+[2026-04-17 08:33:26] === SCRIPT END ===
