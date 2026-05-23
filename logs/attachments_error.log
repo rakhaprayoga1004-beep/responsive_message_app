@@ -1,0 +1,60 @@
+[13-Apr-2026 14:54:31 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\api\get_attachments.php on line 17
+[13-Apr-2026 14:58:07 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\api\get_attachments.php on line 17
+[13-Apr-2026 15:02:41 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\api\get_attachments.php on line 17
+[13-Apr-2026 15:02:41 Asia/Jakarta] Auth check failed: user_id not set in session
+[13-Apr-2026 15:02:41 Asia/Jakarta] Session data keys: Array
+(
+    [0] => last_regeneration
+)
+
+[13-Apr-2026 15:02:47 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\api\get_attachments.php on line 17
+[13-Apr-2026 15:02:47 Asia/Jakarta] Auth check failed: user_id not set in session
+[13-Apr-2026 15:02:47 Asia/Jakarta] Session data keys: Array
+(
+    [0] => last_regeneration
+)
+
+[13-Apr-2026 15:06:39 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\api\get_attachments.php on line 17
+[13-Apr-2026 15:06:39 Asia/Jakarta] Auth check failed: user_id not set in session
+[13-Apr-2026 15:06:39 Asia/Jakarta] Session data keys: Array
+(
+    [0] => last_regeneration
+)
+
+[13-Apr-2026 15:12:22 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\api\get_attachments.php on line 17
+[13-Apr-2026 15:19:06 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\api\get_attachments.php on line 17
+[13-Apr-2026 15:19:06 Asia/Jakarta] Auth check failed: user_id not set in session
+[13-Apr-2026 15:19:06 Asia/Jakarta] Session data keys: Array
+(
+    [0] => last_regeneration
+)
+
+[13-Apr-2026 15:35:17 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\api\get_attachments.php on line 17
+[13-Apr-2026 15:35:17 Asia/Jakarta] Auth check failed: user_id not set in session
+[13-Apr-2026 15:35:17 Asia/Jakarta] Session data keys: Array
+(
+    [0] => last_regeneration
+)
+
+[13-Apr-2026 15:35:38 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\api\get_attachments.php on line 17
+[13-Apr-2026 15:35:38 Asia/Jakarta] Auth check failed: user_id not set in session
+[13-Apr-2026 15:35:38 Asia/Jakarta] Session data keys: Array
+(
+    [0] => last_regeneration
+)
+
+[13-Apr-2026 15:39:25 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\api\get_attachments.php on line 17
+[13-Apr-2026 16:06:16 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\api\get_attachments.php on line 28
+[13-Apr-2026 16:06:16 Asia/Jakarta] Auth check failed: user_id not set in session
+[13-Apr-2026 16:06:16 Asia/Jakarta] Session data keys: Array
+(
+    [0] => last_regeneration
+)
+
+[13-Apr-2026 16:06:38 Asia/Jakarta] PHP Warning:  Constant BASE_URL already defined in C:\xampp\htdocs\responsive-message-app\modules\guru\api\get_attachments.php on line 28
+[13-Apr-2026 16:06:38 Asia/Jakarta] Auth check failed: user_id not set in session
+[13-Apr-2026 16:06:38 Asia/Jakarta] Session data keys: Array
+(
+    [0] => last_regeneration
+)
+

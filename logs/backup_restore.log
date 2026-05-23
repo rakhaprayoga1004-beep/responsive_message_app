@@ -1,0 +1,675 @@
+[2026-03-01 15:16:31] 
+================================================================================
+[2026-03-01 15:16:31] createDatabaseBackup() DIPANGGIL
+[2026-03-01 15:16:31] Host: localhost, Port: 3307, Database: responsive_message_db
+[2026-03-01 15:16:31] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-03-01_15-16-31.sql
+[2026-03-01 15:16:31] Command: mysqldump --host="localhost" --port="3307" --user="root" --password="" --routines --triggers --events "responsive_message_db" 2>&1
+[2026-03-01 15:16:33] ✓ Backup berhasil! Ukuran: 0.33 MB
+[2026-03-29 06:02:04] 
+================================================================================
+[2026-03-29 06:02:04] createDatabaseBackup() DIPANGGIL
+[2026-03-29 06:02:04] Host: localhost, Port: 3307, Database: responsive_message_db
+[2026-03-29 06:02:04] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-03-29_06-02-04.sql
+[2026-03-29 06:02:04] Command: mysqldump --host="localhost" --port="3307" --user="root" --password="" --routines --triggers --events "responsive_message_db" 2>&1
+[2026-03-29 06:02:04] ✗ Backup gagal: 'mysqldump' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2026-03-29 06:02:04] Mencoba fallback ke metode PHP...
+[2026-03-29 06:02:04] Menggunakan metode PHP fallback untuk backup
+[2026-03-29 06:02:04] Ditemukan 37 tabel
+[2026-03-29 06:02:04] Memproses tabel: api_tokens
+[2026-03-29 06:02:04] Memproses tabel: audit_logs
+[2026-03-29 06:02:04] Memproses tabel: backup_backups_before_fk
+[2026-03-29 06:02:04] Memproses tabel: backup_backups_orphan
+[2026-03-29 06:02:04] Memproses tabel: backup_message_activity_logs
+[2026-03-29 06:02:04] Memproses tabel: backup_message_activity_logs_orphan
+[2026-03-29 06:02:04] Memproses tabel: backup_message_submission_logs_orphan
+[2026-03-29 06:02:04] Memproses tabel: backup_orphan_fk_data
+[2026-03-29 06:02:04] Memproses tabel: backups
+[2026-03-29 06:02:04] Memproses tabel: cache_data
+[2026-03-29 06:02:05] Memproses tabel: daily_message_report
+[2026-03-29 06:02:05] Memproses tabel: email_logs
+[2026-03-29 06:02:05] Memproses tabel: external_senders
+[2026-03-29 06:02:05] Memproses tabel: guru_performance_report
+[2026-03-29 06:02:05] Memproses tabel: login_attempts
+[2026-03-29 06:02:05] Memproses tabel: message_activity_logs
+[2026-03-29 06:02:05] Memproses tabel: message_attachments
+[2026-03-29 06:02:05] Memproses tabel: message_deletion_log
+[2026-03-29 06:02:05] Memproses tabel: message_responses
+[2026-03-29 06:02:05] Memproses tabel: message_submission_logs
+[2026-03-29 06:02:05] Memproses tabel: message_type_assignments
+[2026-03-29 06:02:05] Memproses tabel: message_type_statistics
+[2026-03-29 06:02:05] Memproses tabel: message_types
+[2026-03-29 06:02:05] Memproses tabel: messages
+[2026-03-29 06:02:05] Memproses tabel: notification_logs
+[2026-03-29 06:02:05] Memproses tabel: notifications
+[2026-03-29 06:02:05] Memproses tabel: response_templates
+[2026-03-29 06:02:05] Memproses tabel: sessions
+[2026-03-29 06:02:05] Memproses tabel: system_logs
+[2026-03-29 06:02:05] Memproses tabel: system_settings
+[2026-03-29 06:02:05] Memproses tabel: user_activity_report
+[2026-03-29 06:02:05] Memproses tabel: users
+[2026-03-29 06:02:05] Memproses tabel: users_final_backup
+[2026-03-29 06:02:05] Memproses tabel: view_notification_summary
+[2026-03-29 06:02:05] Memproses tabel: wakepsek_reviews
+[2026-03-29 06:02:05] Memproses tabel: whatsapp_devices
+[2026-03-29 06:02:05] Memproses tabel: whatsapp_logs
+[2026-03-29 06:02:05] ✗ Backup PHP gagal: Gagal menulis file backup
+[2026-03-29 06:02:32] 
+================================================================================
+[2026-03-29 06:02:32] createDatabaseBackup() DIPANGGIL
+[2026-03-29 06:02:32] Host: localhost, Port: 3307, Database: responsive_message_db
+[2026-03-29 06:02:32] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-03-29_06-02-32.sql
+[2026-03-29 06:02:32] Command: mysqldump --host="localhost" --port="3307" --user="root" --password="" --routines --triggers --events "responsive_message_db" 2>&1
+[2026-03-29 06:02:32] ✗ Backup gagal: 'mysqldump' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2026-03-29 06:02:32] Mencoba fallback ke metode PHP...
+[2026-03-29 06:02:32] Menggunakan metode PHP fallback untuk backup
+[2026-03-29 06:02:32] Ditemukan 37 tabel
+[2026-03-29 06:02:32] Memproses tabel: api_tokens
+[2026-03-29 06:02:32] Memproses tabel: audit_logs
+[2026-03-29 06:02:32] Memproses tabel: backup_backups_before_fk
+[2026-03-29 06:02:32] Memproses tabel: backup_backups_orphan
+[2026-03-29 06:02:33] Memproses tabel: backup_message_activity_logs
+[2026-03-29 06:02:33] Memproses tabel: backup_message_activity_logs_orphan
+[2026-03-29 06:02:33] Memproses tabel: backup_message_submission_logs_orphan
+[2026-03-29 06:02:33] Memproses tabel: backup_orphan_fk_data
+[2026-03-29 06:02:33] Memproses tabel: backups
+[2026-03-29 06:02:33] Memproses tabel: cache_data
+[2026-03-29 06:02:33] Memproses tabel: daily_message_report
+[2026-03-29 06:02:33] Memproses tabel: email_logs
+[2026-03-29 06:02:33] Memproses tabel: external_senders
+[2026-03-29 06:02:33] Memproses tabel: guru_performance_report
+[2026-03-29 06:02:33] Memproses tabel: login_attempts
+[2026-03-29 06:02:33] Memproses tabel: message_activity_logs
+[2026-03-29 06:02:33] Memproses tabel: message_attachments
+[2026-03-29 06:02:33] Memproses tabel: message_deletion_log
+[2026-03-29 06:02:33] Memproses tabel: message_responses
+[2026-03-29 06:02:33] Memproses tabel: message_submission_logs
+[2026-03-29 06:02:33] Memproses tabel: message_type_assignments
+[2026-03-29 06:02:33] Memproses tabel: message_type_statistics
+[2026-03-29 06:02:33] Memproses tabel: message_types
+[2026-03-29 06:02:33] Memproses tabel: messages
+[2026-03-29 06:02:33] Memproses tabel: notification_logs
+[2026-03-29 06:02:33] Memproses tabel: notifications
+[2026-03-29 06:02:33] Memproses tabel: response_templates
+[2026-03-29 06:02:33] Memproses tabel: sessions
+[2026-03-29 06:02:33] Memproses tabel: system_logs
+[2026-03-29 06:02:33] Memproses tabel: system_settings
+[2026-03-29 06:02:33] Memproses tabel: user_activity_report
+[2026-03-29 06:02:33] Memproses tabel: users
+[2026-03-29 06:02:33] Memproses tabel: users_final_backup
+[2026-03-29 06:02:33] Memproses tabel: view_notification_summary
+[2026-03-29 06:02:33] Memproses tabel: wakepsek_reviews
+[2026-03-29 06:02:33] Memproses tabel: whatsapp_devices
+[2026-03-29 06:02:33] Memproses tabel: whatsapp_logs
+[2026-03-29 06:02:33] ✗ Backup PHP gagal: Gagal menulis file backup
+[2026-03-29 11:11:55] 
+================================================================================
+[2026-03-29 11:11:55] createDatabaseBackup() DIPANGGIL
+[2026-03-29 11:11:55] Host: localhost, Port: 3307, Database: responsive_message_db
+[2026-03-29 11:11:55] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-03-29_11-11-55.sql
+[2026-03-29 11:11:55] Command: mysqldump --host="localhost" --port="3307" --user="root" --password="" --routines --triggers --events "responsive_message_db" 2>&1
+[2026-03-29 11:11:55] ✗ Backup gagal: 'mysqldump' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2026-03-29 11:11:55] Mencoba fallback ke metode PHP...
+[2026-03-29 11:11:55] Menggunakan metode PHP fallback untuk backup
+[2026-03-29 11:11:55] Ditemukan 39 tabel
+[2026-03-29 11:11:55] Memproses tabel: api_tokens
+[2026-03-29 11:11:55] Memproses tabel: audit_logs
+[2026-03-29 11:11:56] Memproses tabel: backup_backups_before_fk
+[2026-03-29 11:11:56] Memproses tabel: backup_backups_orphan
+[2026-03-29 11:11:56] Memproses tabel: backup_message_activity_logs
+[2026-03-29 11:11:56] Memproses tabel: backup_message_activity_logs_orphan
+[2026-03-29 11:11:56] Memproses tabel: backup_message_submission_logs_orphan
+[2026-03-29 11:11:56] Memproses tabel: backup_orphan_fk_data
+[2026-03-29 11:11:56] Memproses tabel: backups
+[2026-03-29 11:11:56] Memproses tabel: cache_data
+[2026-03-29 11:11:56] Memproses tabel: daily_message_report
+[2026-03-29 11:11:56] Memproses tabel: email_logs
+[2026-03-29 11:11:56] Memproses tabel: external_senders
+[2026-03-29 11:11:56] Memproses tabel: fonnte_config
+[2026-03-29 11:11:56] Memproses tabel: guru_performance_report
+[2026-03-29 11:11:56] Memproses tabel: login_attempts
+[2026-03-29 11:11:56] Memproses tabel: mailersend_config
+[2026-03-29 11:11:56] Memproses tabel: message_activity_logs
+[2026-03-29 11:11:56] Memproses tabel: message_attachments
+[2026-03-29 11:11:56] Memproses tabel: message_deletion_log
+[2026-03-29 11:11:56] Memproses tabel: message_responses
+[2026-03-29 11:11:56] Memproses tabel: message_submission_logs
+[2026-03-29 11:11:56] Memproses tabel: message_type_assignments
+[2026-03-29 11:11:56] Memproses tabel: message_type_statistics
+[2026-03-29 11:11:56] Memproses tabel: message_types
+[2026-03-29 11:11:56] Memproses tabel: messages
+[2026-03-29 11:11:56] Memproses tabel: notification_logs
+[2026-03-29 11:11:56] Memproses tabel: notifications
+[2026-03-29 11:11:56] Memproses tabel: response_templates
+[2026-03-29 11:11:56] Memproses tabel: sessions
+[2026-03-29 11:11:56] Memproses tabel: system_logs
+[2026-03-29 11:11:56] Memproses tabel: system_settings
+[2026-03-29 11:11:56] Memproses tabel: user_activity_report
+[2026-03-29 11:11:56] Memproses tabel: users
+[2026-03-29 11:11:56] Memproses tabel: users_final_backup
+[2026-03-29 11:11:56] Memproses tabel: view_notification_summary
+[2026-03-29 11:11:56] Memproses tabel: wakepsek_reviews
+[2026-03-29 11:11:56] Memproses tabel: whatsapp_devices
+[2026-03-29 11:11:56] Memproses tabel: whatsapp_logs
+[2026-03-29 11:11:56] ✗ Backup PHP gagal: Gagal menulis file backup
+[2026-04-18 11:16:53] 
+================================================================================
+[2026-04-18 11:16:53] createDatabaseBackup() DIPANGGIL
+[2026-04-18 11:16:53] Host: 127.0.0.1, Port: 3307, Database: responsive_message_db
+[2026-04-18 11:16:53] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-04-18_11-16-53.sql
+[2026-04-18 11:16:53] Command: mysqldump --host="127.0.0.1" --port="3307" --user="root" --password="" --routines --triggers --events "responsive_message_db" 2>&1
+[2026-04-18 11:16:53] ✗ Backup gagal: 'mysqldump' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2026-04-18 11:16:53] Mencoba fallback ke metode PHP...
+[2026-04-18 11:16:53] Menggunakan metode PHP fallback untuk backup
+[2026-04-18 11:16:53] Ditemukan 41 tabel
+[2026-04-18 11:16:53] Memproses tabel: api_tokens
+[2026-04-18 11:16:53] Memproses tabel: audit_logs
+[2026-04-18 11:16:54] Memproses tabel: backup_backups_before_fk
+[2026-04-18 11:16:54] Memproses tabel: backup_backups_orphan
+[2026-04-18 11:16:54] Memproses tabel: backup_message_activity_logs
+[2026-04-18 11:16:54] Memproses tabel: backup_message_activity_logs_orphan
+[2026-04-18 11:16:54] Memproses tabel: backup_message_submission_logs_orphan
+[2026-04-18 11:16:54] Memproses tabel: backup_orphan_fk_data
+[2026-04-18 11:16:54] Memproses tabel: backups
+[2026-04-18 11:16:54] Memproses tabel: cache_data
+[2026-04-18 11:16:54] Memproses tabel: daily_message_report
+[2026-04-18 11:16:54] Memproses tabel: email_logs
+[2026-04-18 11:16:54] Memproses tabel: external_senders
+[2026-04-18 11:16:54] Memproses tabel: fonnte_config
+[2026-04-18 11:16:54] Memproses tabel: guru_performance_report
+[2026-04-18 11:16:54] Memproses tabel: login_attempts
+[2026-04-18 11:16:54] Memproses tabel: mailersend_config
+[2026-04-18 11:16:54] Memproses tabel: message_activity_logs
+[2026-04-18 11:16:54] Memproses tabel: message_attachments
+[2026-04-18 11:16:54] Memproses tabel: message_deletion_log
+[2026-04-18 11:16:54] Memproses tabel: message_responses
+[2026-04-18 11:16:54] Memproses tabel: message_submission_logs
+[2026-04-18 11:16:54] Memproses tabel: message_type_assignments
+[2026-04-18 11:16:54] Memproses tabel: message_type_statistics
+[2026-04-18 11:16:54] Memproses tabel: message_types
+[2026-04-18 11:16:54] Memproses tabel: messages
+[2026-04-18 11:16:54] Memproses tabel: notification_logs
+[2026-04-18 11:16:54] Memproses tabel: notifications
+[2026-04-18 11:16:54] Memproses tabel: permissions
+[2026-04-18 11:16:54] Memproses tabel: response_templates
+[2026-04-18 11:16:54] Memproses tabel: sessions
+[2026-04-18 11:16:54] Memproses tabel: system_logs
+[2026-04-18 11:16:54] Memproses tabel: system_settings
+[2026-04-18 11:16:55] Memproses tabel: user_activity_report
+[2026-04-18 11:16:55] Memproses tabel: user_tokens
+[2026-04-18 11:16:55] Memproses tabel: users
+[2026-04-18 11:16:55] Memproses tabel: users_final_backup
+[2026-04-18 11:16:55] Memproses tabel: view_notification_summary
+[2026-04-18 11:16:55] Memproses tabel: wakepsek_reviews
+[2026-04-18 11:16:55] Memproses tabel: whatsapp_devices
+[2026-04-18 11:16:55] Memproses tabel: whatsapp_logs
+[2026-04-18 11:16:55] ✗ Backup PHP gagal: Gagal menulis file backup
+[2026-04-20 10:00:01] 
+================================================================================
+[2026-04-20 10:00:01] createDatabaseBackup() DIPANGGIL
+[2026-04-20 10:00:01] Host: 127.0.0.1, Port: 3307, Database: responsive_message_db
+[2026-04-20 10:00:01] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-04-20_10-00-01.sql
+[2026-04-20 10:00:01] Command: mysqldump --host="127.0.0.1" --port="3307" --user="root" --password="" --routines --triggers --events "responsive_message_db" 2>&1
+[2026-04-20 10:00:01] ✗ Backup gagal: 'mysqldump' is not recognized as an internal or external command,
+operable program or batch file.
+
+[2026-04-20 10:00:01] Mencoba fallback ke metode PHP...
+[2026-04-20 10:00:01] Menggunakan metode PHP fallback untuk backup
+[2026-04-20 10:00:01] Ditemukan 38 tabel
+[2026-04-20 10:00:01] Memproses tabel: api_tokens
+[2026-04-20 10:00:01] Memproses tabel: audit_logs
+[2026-04-20 10:00:01] Memproses tabel: backup_backups_before_fk
+[2026-04-20 10:00:01] Memproses tabel: backup_backups_orphan
+[2026-04-20 10:00:02] Memproses tabel: backup_message_activity_logs
+[2026-04-20 10:00:02] Memproses tabel: backup_message_activity_logs_orphan
+[2026-04-20 10:00:02] Memproses tabel: backup_message_submission_logs_orphan
+[2026-04-20 10:00:02] Memproses tabel: backups
+[2026-04-20 10:00:02] Memproses tabel: cache_data
+[2026-04-20 10:00:02] Memproses tabel: daily_message_report
+[2026-04-20 10:00:02] Memproses tabel: email_logs
+[2026-04-20 10:00:02] Memproses tabel: external_senders
+[2026-04-20 10:00:02] Memproses tabel: fonnte_config
+[2026-04-20 10:00:02] Memproses tabel: guru_performance_report
+[2026-04-20 10:00:02] Memproses tabel: login_attempts
+[2026-04-20 10:00:02] Memproses tabel: mailersend_config
+[2026-04-20 10:00:02] Memproses tabel: message_activity_logs
+[2026-04-20 10:00:02] Memproses tabel: message_attachments
+[2026-04-20 10:00:02] Memproses tabel: message_deletion_log
+[2026-04-20 10:00:02] Memproses tabel: message_responses
+[2026-04-20 10:00:02] Memproses tabel: message_submission_logs
+[2026-04-20 10:00:02] Memproses tabel: message_type_assignments
+[2026-04-20 10:00:02] Memproses tabel: message_type_statistics
+[2026-04-20 10:00:02] Memproses tabel: message_types
+[2026-04-20 10:00:02] Memproses tabel: messages
+[2026-04-20 10:00:02] Memproses tabel: notification_logs
+[2026-04-20 10:00:02] Memproses tabel: notifications
+[2026-04-20 10:00:02] Memproses tabel: permissions
+[2026-04-20 10:00:02] Memproses tabel: response_templates
+[2026-04-20 10:00:02] Memproses tabel: sessions
+[2026-04-20 10:00:02] Memproses tabel: system_logs
+[2026-04-20 10:00:02] Memproses tabel: system_settings
+[2026-04-20 10:00:02] Memproses tabel: user_activity_report
+[2026-04-20 10:00:02] Memproses tabel: user_tokens
+[2026-04-20 10:00:02] Memproses tabel: users
+[2026-04-20 10:00:02] Memproses tabel: users_final_backup
+[2026-04-20 10:00:02] Memproses tabel: view_notification_summary
+[2026-04-20 10:00:02] Memproses tabel: wakepsek_reviews
+[2026-04-20 10:00:02] ✗ Backup PHP gagal: Gagal menulis file backup
+[2026-04-20 17:32:22] Mencoba backup dengan mysqldump terstruktur
+[2026-04-20 17:32:22] Menjalankan mysqldump...
+[2026-04-20 17:32:22] ✓ Backup dengan mysqldump berhasil! Ukuran: 0 MB
+[2026-04-21 14:02:00] 
+================================================================================
+[2026-04-21 14:02:00] createDatabaseBackup() DIPANGGIL - Full Database Backup Mode
+[2026-04-21 14:02:00] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_2026-04-21_14-02-00.sql
+[2026-04-21 14:02:00] Ditemukan 35 tabel dan 5 view
+[2026-04-21 14:02:00] Level dependensi: 4 level
+[2026-04-21 14:02:00] Memproses tabel level 1: audit_logs
+[2026-04-21 14:02:00] Memproses tabel level 1: backup_backups_before_fk
+[2026-04-21 14:02:01] Memproses tabel level 1: backup_backups_orphan
+[2026-04-21 14:02:01] Memproses tabel level 1: backup_message_activity_logs
+[2026-04-21 14:02:01] Memproses tabel level 1: backup_orphan_fk_data
+[2026-04-21 14:02:01] Memproses tabel level 1: cache_data
+[2026-04-21 14:02:01] Memproses tabel level 1: email_logs
+[2026-04-21 14:02:01] Memproses tabel level 1: external_senders
+[2026-04-21 14:02:01] Memproses tabel level 1: fonnte_config
+[2026-04-21 14:02:01] Memproses tabel level 1: login_attempts
+[2026-04-21 14:02:01] Memproses tabel level 1: mailersend_config
+[2026-04-21 14:02:01] Memproses tabel level 1: message_types
+[2026-04-21 14:02:01] Memproses tabel level 1: permissions
+[2026-04-21 14:02:01] Memproses tabel level 1: system_settings
+[2026-04-21 14:02:01] Memproses tabel level 1: users
+[2026-04-21 14:02:01] Memproses tabel level 1: users_final_backup
+[2026-04-21 14:02:01] Memproses tabel level 1: whatsapp_devices
+[2026-04-21 14:02:01] Memproses tabel level 2: api_tokens
+[2026-04-21 14:02:01] Memproses tabel level 2: backups
+[2026-04-21 14:02:01] Memproses tabel level 2: message_type_assignments
+[2026-04-21 14:02:01] Memproses tabel level 2: messages
+[2026-04-21 14:02:01] Memproses tabel level 2: notifications
+[2026-04-21 14:02:01] Memproses tabel level 2: response_templates
+[2026-04-21 14:02:01] Memproses tabel level 2: sessions
+[2026-04-21 14:02:01] Memproses tabel level 2: system_logs
+[2026-04-21 14:02:01] Memproses tabel level 2: user_tokens
+[2026-04-21 14:02:01] Memproses tabel level 3: backup_message_activity_logs_orphan
+[2026-04-21 14:02:01] Memproses tabel level 3: message_activity_logs
+[2026-04-21 14:02:01] Memproses tabel level 3: message_attachments
+[2026-04-21 14:02:01] Memproses tabel level 3: message_deletion_log
+[2026-04-21 14:02:01] Memproses tabel level 3: message_responses
+[2026-04-21 14:02:01] Memproses tabel level 3: message_submission_logs
+[2026-04-21 14:02:01] Memproses tabel level 3: wakepsek_reviews
+[2026-04-21 14:02:01] Memproses tabel level 3: whatsapp_logs
+[2026-04-21 14:02:01] Memproses tabel level 4: notification_logs
+[2026-04-21 14:02:01] Memproses view: daily_message_report
+[2026-04-21 14:02:01] Memproses view: guru_performance_report
+[2026-04-21 14:02:01] Memproses view: message_type_statistics
+[2026-04-21 14:02:01] Memproses view: user_activity_report
+[2026-04-21 14:02:01] Memproses view: view_notification_summary
+[2026-04-21 14:02:01] ✓ Backup berhasil! Ukuran: 0.09 MB
+[2026-04-21 14:02:01] File: backup_2026-04-21_14-02-00.sql
+[2026-04-21 14:02:01] Total tabel: 35
+[2026-04-21 14:02:01] Total view: 5
+[2026-04-21 14:02:01] Level dependensi: 4
+[2026-04-21 14:09:40] 
+================================================================================
+[2026-04-21 14:09:40] createDatabaseBackup() DIPANGGIL - Full Database Backup Mode
+[2026-04-21 14:09:40] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_2026-04-21_14-09-40.sql
+[2026-04-21 14:09:40] Ditemukan 35 tabel dan 5 view
+[2026-04-21 14:09:40] Level dependensi: 4 level
+[2026-04-21 14:09:40] Memproses tabel level 1: audit_logs
+[2026-04-21 14:09:40] Memproses tabel level 1: backup_backups_before_fk
+[2026-04-21 14:09:40] Memproses tabel level 1: backup_backups_orphan
+[2026-04-21 14:09:40] Memproses tabel level 1: backup_message_activity_logs
+[2026-04-21 14:09:40] Memproses tabel level 1: backup_orphan_fk_data
+[2026-04-21 14:09:40] Memproses tabel level 1: cache_data
+[2026-04-21 14:09:40] Memproses tabel level 1: email_logs
+[2026-04-21 14:09:40] Memproses tabel level 1: external_senders
+[2026-04-21 14:09:40] Memproses tabel level 1: fonnte_config
+[2026-04-21 14:09:40] Memproses tabel level 1: login_attempts
+[2026-04-21 14:09:40] Memproses tabel level 1: mailersend_config
+[2026-04-21 14:09:40] Memproses tabel level 1: message_types
+[2026-04-21 14:09:40] Memproses tabel level 1: permissions
+[2026-04-21 14:09:40] Memproses tabel level 1: system_settings
+[2026-04-21 14:09:40] Memproses tabel level 1: users
+[2026-04-21 14:09:40] Memproses tabel level 1: users_final_backup
+[2026-04-21 14:09:40] Memproses tabel level 1: whatsapp_devices
+[2026-04-21 14:09:40] Memproses tabel level 2: api_tokens
+[2026-04-21 14:09:40] Memproses tabel level 2: backups
+[2026-04-21 14:09:40] Memproses tabel level 2: message_type_assignments
+[2026-04-21 14:09:41] Memproses tabel level 2: messages
+[2026-04-21 14:09:41] Memproses tabel level 2: notifications
+[2026-04-21 14:09:41] Memproses tabel level 2: response_templates
+[2026-04-21 14:09:41] Memproses tabel level 2: sessions
+[2026-04-21 14:09:41] Memproses tabel level 2: system_logs
+[2026-04-21 14:09:41] Memproses tabel level 2: user_tokens
+[2026-04-21 14:09:41] Memproses tabel level 3: backup_message_activity_logs_orphan
+[2026-04-21 14:09:41] Memproses tabel level 3: message_activity_logs
+[2026-04-21 14:09:41] Memproses tabel level 3: message_attachments
+[2026-04-21 14:09:41] Memproses tabel level 3: message_deletion_log
+[2026-04-21 14:09:41] Memproses tabel level 3: message_responses
+[2026-04-21 14:09:41] Memproses tabel level 3: message_submission_logs
+[2026-04-21 14:09:41] Memproses tabel level 3: wakepsek_reviews
+[2026-04-21 14:09:41] Memproses tabel level 3: whatsapp_logs
+[2026-04-21 14:09:41] Memproses tabel level 4: notification_logs
+[2026-04-21 14:09:41] Memproses view: daily_message_report
+[2026-04-21 14:09:41] Memproses view: guru_performance_report
+[2026-04-21 14:09:41] Memproses view: message_type_statistics
+[2026-04-21 14:09:41] Memproses view: user_activity_report
+[2026-04-21 14:09:41] Memproses view: view_notification_summary
+[2026-04-21 14:09:41] ✓ Backup berhasil! Ukuran: 0.29 MB
+[2026-04-21 14:09:41] File: backup_2026-04-21_14-09-40.sql
+[2026-04-21 14:09:41] Total tabel: 35
+[2026-04-21 14:09:41] Total view: 5
+[2026-04-21 14:09:41] Level dependensi: 4
+[2026-04-21 14:33:51] 
+================================================================================
+[2026-04-21 14:33:51] createDatabaseBackup() DIPANGGIL - Full Database Backup Mode
+[2026-04-21 14:33:51] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_2026-04-21_14-33-51.sql
+[2026-04-21 14:33:51] Ditemukan 35 tabel dan 5 view
+[2026-04-21 14:33:51] Level dependensi: 4 level
+[2026-04-21 14:33:51] Memproses tabel level 1: audit_logs
+[2026-04-21 14:33:52] Memproses tabel level 1: backup_backups_before_fk
+[2026-04-21 14:33:52] Memproses tabel level 1: backup_backups_orphan
+[2026-04-21 14:33:52] Memproses tabel level 1: backup_message_activity_logs
+[2026-04-21 14:33:52] Memproses tabel level 1: backup_orphan_fk_data
+[2026-04-21 14:33:52] Memproses tabel level 1: cache_data
+[2026-04-21 14:33:52] Memproses tabel level 1: email_logs
+[2026-04-21 14:33:52] Memproses tabel level 1: external_senders
+[2026-04-21 14:33:52] Memproses tabel level 1: fonnte_config
+[2026-04-21 14:33:52] Memproses tabel level 1: login_attempts
+[2026-04-21 14:33:52] Memproses tabel level 1: mailersend_config
+[2026-04-21 14:33:52] Memproses tabel level 1: message_types
+[2026-04-21 14:33:52] Memproses tabel level 1: permissions
+[2026-04-21 14:33:52] Memproses tabel level 1: system_settings
+[2026-04-21 14:33:52] Memproses tabel level 1: users
+[2026-04-21 14:33:52] Memproses tabel level 1: users_final_backup
+[2026-04-21 14:33:52] Memproses tabel level 1: whatsapp_devices
+[2026-04-21 14:33:52] Memproses tabel level 2: api_tokens
+[2026-04-21 14:33:52] Memproses tabel level 2: backups
+[2026-04-21 14:33:52] Memproses tabel level 2: message_type_assignments
+[2026-04-21 14:33:52] Memproses tabel level 2: messages
+[2026-04-21 14:33:52] Memproses tabel level 2: notifications
+[2026-04-21 14:33:52] Memproses tabel level 2: response_templates
+[2026-04-21 14:33:52] Memproses tabel level 2: sessions
+[2026-04-21 14:33:52] Memproses tabel level 2: system_logs
+[2026-04-21 14:33:52] Memproses tabel level 2: user_tokens
+[2026-04-21 14:33:52] Memproses tabel level 3: backup_message_activity_logs_orphan
+[2026-04-21 14:33:52] Memproses tabel level 3: message_activity_logs
+[2026-04-21 14:33:52] Memproses tabel level 3: message_attachments
+[2026-04-21 14:33:52] Memproses tabel level 3: message_deletion_log
+[2026-04-21 14:33:52] Memproses tabel level 3: message_responses
+[2026-04-21 14:33:52] Memproses tabel level 3: message_submission_logs
+[2026-04-21 14:33:52] Memproses tabel level 3: wakepsek_reviews
+[2026-04-21 14:33:52] Memproses tabel level 3: whatsapp_logs
+[2026-04-21 14:33:52] Memproses tabel level 4: notification_logs
+[2026-04-21 14:33:52] Memproses view: daily_message_report
+[2026-04-21 14:33:52] Memproses view: guru_performance_report
+[2026-04-21 14:33:52] Memproses view: message_type_statistics
+[2026-04-21 14:33:52] Memproses view: user_activity_report
+[2026-04-21 14:33:53] Memproses view: view_notification_summary
+[2026-04-21 14:33:53] ✓ Backup berhasil! Ukuran: 0.3 MB
+[2026-04-21 14:33:53] File: backup_2026-04-21_14-33-51.sql
+[2026-04-21 14:33:53] Total tabel: 35
+[2026-04-21 14:33:53] Total view: 5
+[2026-04-21 14:33:53] Level dependensi: 4
+[2026-04-21 14:47:45] 
+================================================================================
+[2026-04-21 14:47:45] createDatabaseBackup() DIPANGGIL - Full Database Backup Mode
+[2026-04-21 14:47:45] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-04-21_14-47-45.sql
+[2026-04-21 14:47:45] Ditemukan 35 tabel dan 5 view
+[2026-04-21 14:47:45] Level dependensi: 4 level
+[2026-04-21 14:47:45] Memproses tabel level 1: audit_logs
+[2026-04-21 14:47:45] Memproses tabel level 1: backup_backups_before_fk
+[2026-04-21 14:47:45] Memproses tabel level 1: backup_backups_orphan
+[2026-04-21 14:47:45] Memproses tabel level 1: backup_message_activity_logs
+[2026-04-21 14:47:45] Memproses tabel level 1: backup_orphan_fk_data
+[2026-04-21 14:47:45] Memproses tabel level 1: cache_data
+[2026-04-21 14:47:45] Memproses tabel level 1: email_logs
+[2026-04-21 14:47:45] Memproses tabel level 1: external_senders
+[2026-04-21 14:47:45] Memproses tabel level 1: fonnte_config
+[2026-04-21 14:47:45] Memproses tabel level 1: login_attempts
+[2026-04-21 14:47:45] Memproses tabel level 1: mailersend_config
+[2026-04-21 14:47:45] Memproses tabel level 1: message_types
+[2026-04-21 14:47:45] Memproses tabel level 1: permissions
+[2026-04-21 14:47:45] Memproses tabel level 1: system_settings
+[2026-04-21 14:47:45] Memproses tabel level 1: users
+[2026-04-21 14:47:45] Memproses tabel level 1: users_final_backup
+[2026-04-21 14:47:45] Memproses tabel level 1: whatsapp_devices
+[2026-04-21 14:47:45] Memproses tabel level 2: api_tokens
+[2026-04-21 14:47:46] Memproses tabel level 2: backups
+[2026-04-21 14:47:46] Memproses tabel level 2: message_type_assignments
+[2026-04-21 14:47:46] Memproses tabel level 2: messages
+[2026-04-21 14:47:46] Memproses tabel level 2: notifications
+[2026-04-21 14:47:46] Memproses tabel level 2: response_templates
+[2026-04-21 14:47:46] Memproses tabel level 2: sessions
+[2026-04-21 14:47:46] Memproses tabel level 2: system_logs
+[2026-04-21 14:47:46] Memproses tabel level 2: user_tokens
+[2026-04-21 14:47:46] Memproses tabel level 3: backup_message_activity_logs_orphan
+[2026-04-21 14:47:46] Memproses tabel level 3: message_activity_logs
+[2026-04-21 14:47:46] Memproses tabel level 3: message_attachments
+[2026-04-21 14:47:46] Memproses tabel level 3: message_deletion_log
+[2026-04-21 14:47:46] Memproses tabel level 3: message_responses
+[2026-04-21 14:47:46] Memproses tabel level 3: message_submission_logs
+[2026-04-21 14:47:46] Memproses tabel level 3: wakepsek_reviews
+[2026-04-21 14:47:46] Memproses tabel level 3: whatsapp_logs
+[2026-04-21 14:47:46] Memproses tabel level 4: notification_logs
+[2026-04-21 14:47:46] Memproses view: daily_message_report
+[2026-04-21 14:47:46] Memproses view: guru_performance_report
+[2026-04-21 14:47:46] Memproses view: message_type_statistics
+[2026-04-21 14:47:46] Memproses view: user_activity_report
+[2026-04-21 14:47:46] Memproses view: view_notification_summary
+[2026-04-21 14:47:46] ✓ Backup berhasil! Ukuran: 0.3 MB
+[2026-04-21 14:47:46] File: backup_responsive_message_db_2026-04-21_14-47-45.sql
+[2026-04-21 14:47:46] Total tabel: 35
+[2026-04-21 14:47:46] Total view: 5
+[2026-04-21 14:47:46] Level dependensi: 4
+[2026-04-21 17:02:40] 
+================================================================================
+[2026-04-21 17:02:40] createDatabaseBackup() DIPANGGIL - Full Database Backup Mode
+[2026-04-21 17:02:40] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-04-21_17-02-40.sql
+[2026-04-21 17:02:40] Ditemukan 35 tabel dan 5 view
+[2026-04-21 17:02:40] Level dependensi: 4 level
+[2026-04-21 17:02:40] Memproses tabel level 1: audit_logs
+[2026-04-21 17:02:40] Memproses tabel level 1: backup_backups_before_fk
+[2026-04-21 17:02:40] Memproses tabel level 1: backup_backups_orphan
+[2026-04-21 17:02:40] Memproses tabel level 1: backup_message_activity_logs
+[2026-04-21 17:02:40] Memproses tabel level 1: backup_orphan_fk_data
+[2026-04-21 17:02:40] Memproses tabel level 1: cache_data
+[2026-04-21 17:02:40] Memproses tabel level 1: email_logs
+[2026-04-21 17:02:40] Memproses tabel level 1: external_senders
+[2026-04-21 17:02:40] Memproses tabel level 1: fonnte_config
+[2026-04-21 17:02:40] Memproses tabel level 1: login_attempts
+[2026-04-21 17:02:40] Memproses tabel level 1: mailersend_config
+[2026-04-21 17:02:40] Memproses tabel level 1: message_types
+[2026-04-21 17:02:40] Memproses tabel level 1: permissions
+[2026-04-21 17:02:40] Memproses tabel level 1: system_settings
+[2026-04-21 17:02:40] Memproses tabel level 1: users
+[2026-04-21 17:02:40] Memproses tabel level 1: users_final_backup
+[2026-04-21 17:02:40] Memproses tabel level 1: whatsapp_devices
+[2026-04-21 17:02:40] Memproses tabel level 2: api_tokens
+[2026-04-21 17:02:41] Memproses tabel level 2: backups
+[2026-04-21 17:02:41] Memproses tabel level 2: message_type_assignments
+[2026-04-21 17:02:41] Memproses tabel level 2: messages
+[2026-04-21 17:02:41] Memproses tabel level 2: notifications
+[2026-04-21 17:02:41] Memproses tabel level 2: response_templates
+[2026-04-21 17:02:41] Memproses tabel level 2: sessions
+[2026-04-21 17:02:41] Memproses tabel level 2: system_logs
+[2026-04-21 17:02:41] Memproses tabel level 2: user_tokens
+[2026-04-21 17:02:41] Memproses tabel level 3: backup_message_activity_logs_orphan
+[2026-04-21 17:02:41] Memproses tabel level 3: message_activity_logs
+[2026-04-21 17:02:41] Memproses tabel level 3: message_attachments
+[2026-04-21 17:02:41] Memproses tabel level 3: message_deletion_log
+[2026-04-21 17:02:41] Memproses tabel level 3: message_responses
+[2026-04-21 17:02:41] Memproses tabel level 3: message_submission_logs
+[2026-04-21 17:02:41] Memproses tabel level 3: wakepsek_reviews
+[2026-04-21 17:02:41] Memproses tabel level 3: whatsapp_logs
+[2026-04-21 17:02:41] Memproses tabel level 4: notification_logs
+[2026-04-21 17:02:41] Memproses view: daily_message_report
+[2026-04-21 17:02:41] Memproses view: guru_performance_report
+[2026-04-21 17:02:41] Memproses view: message_type_statistics
+[2026-04-21 17:02:41] Memproses view: user_activity_report
+[2026-04-21 17:02:41] Memproses view: view_notification_summary
+[2026-04-21 17:02:41] ✓ Backup berhasil! Ukuran: 0.3 MB
+[2026-04-21 17:02:41] File: backup_responsive_message_db_2026-04-21_17-02-40.sql
+[2026-04-21 17:02:41] Total tabel: 35
+[2026-04-21 17:02:41] Total view: 5
+[2026-04-21 17:02:41] Level dependensi: 4
+[2026-04-29 15:44:36] 
+================================================================================
+[2026-04-29 15:44:36] createDatabaseBackup() DIPANGGIL - Full Database Backup Mode
+[2026-04-29 15:44:36] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-04-29_15-44-36.sql
+[2026-04-29 15:44:36] Ditemukan 35 tabel dan 5 view
+[2026-04-29 15:44:36] Level dependensi: 4 level
+[2026-04-29 15:44:36] Memproses tabel level 1: audit_logs
+[2026-04-29 15:44:36] Memproses tabel level 1: backup_backups_before_fk
+[2026-04-29 15:44:36] Memproses tabel level 1: backup_backups_orphan
+[2026-04-29 15:44:37] Memproses tabel level 1: backup_message_activity_logs
+[2026-04-29 15:44:37] Memproses tabel level 1: backup_orphan_fk_data
+[2026-04-29 15:44:37] Memproses tabel level 1: cache_data
+[2026-04-29 15:44:37] Memproses tabel level 1: email_logs
+[2026-04-29 15:44:37] Memproses tabel level 1: external_senders
+[2026-04-29 15:44:37] Memproses tabel level 1: fonnte_config
+[2026-04-29 15:44:37] Memproses tabel level 1: login_attempts
+[2026-04-29 15:44:37] Memproses tabel level 1: mailersend_config
+[2026-04-29 15:44:37] Memproses tabel level 1: message_types
+[2026-04-29 15:44:37] Memproses tabel level 1: permissions
+[2026-04-29 15:44:37] Memproses tabel level 1: system_settings
+[2026-04-29 15:44:37] Memproses tabel level 1: users
+[2026-04-29 15:44:37] Memproses tabel level 1: users_final_backup
+[2026-04-29 15:44:37] Memproses tabel level 1: whatsapp_devices
+[2026-04-29 15:44:37] Memproses tabel level 2: api_tokens
+[2026-04-29 15:44:37] Memproses tabel level 2: backups
+[2026-04-29 15:44:37] Memproses tabel level 2: message_type_assignments
+[2026-04-29 15:44:37] Memproses tabel level 2: messages
+[2026-04-29 15:44:37] Memproses tabel level 2: notifications
+[2026-04-29 15:44:37] Memproses tabel level 2: response_templates
+[2026-04-29 15:44:37] Memproses tabel level 2: sessions
+[2026-04-29 15:44:37] Memproses tabel level 2: system_logs
+[2026-04-29 15:44:37] Memproses tabel level 2: user_tokens
+[2026-04-29 15:44:37] Memproses tabel level 3: backup_message_activity_logs_orphan
+[2026-04-29 15:44:37] Memproses tabel level 3: message_activity_logs
+[2026-04-29 15:44:37] Memproses tabel level 3: message_attachments
+[2026-04-29 15:44:37] Memproses tabel level 3: message_deletion_log
+[2026-04-29 15:44:37] Memproses tabel level 3: message_responses
+[2026-04-29 15:44:37] Memproses tabel level 3: message_submission_logs
+[2026-04-29 15:44:37] Memproses tabel level 3: wakepsek_reviews
+[2026-04-29 15:44:37] Memproses tabel level 3: whatsapp_logs
+[2026-04-29 15:44:37] Memproses tabel level 4: notification_logs
+[2026-04-29 15:44:37] Memproses view: daily_message_report
+[2026-04-29 15:44:37] Memproses view: guru_performance_report
+[2026-04-29 15:44:37] Memproses view: message_type_statistics
+[2026-04-29 15:44:37] Memproses view: user_activity_report
+[2026-04-29 15:44:37] Memproses view: view_notification_summary
+[2026-04-29 15:44:37] ✓ Backup berhasil! Ukuran: 0.3 MB
+[2026-04-29 15:44:37] File: backup_responsive_message_db_2026-04-29_15-44-36.sql
+[2026-04-29 15:44:37] Total tabel: 35
+[2026-04-29 15:44:37] Total view: 5
+[2026-04-29 15:44:37] Level dependensi: 4
+[2026-04-29 17:14:33] 
+================================================================================
+[2026-04-29 17:14:33] createDatabaseBackup() DIPANGGIL - Full Database Backup Mode
+[2026-04-29 17:14:33] Backup file: C:\xampp\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-04-29_17-14-33.sql
+[2026-04-29 17:14:33] Ditemukan 35 tabel dan 5 view
+[2026-04-29 17:14:33] Level dependensi: 4 level
+[2026-04-29 17:14:33] Memproses tabel level 1: audit_logs
+[2026-04-29 17:14:33] Memproses tabel level 1: backup_backups_before_fk
+[2026-04-29 17:14:33] Memproses tabel level 1: backup_backups_orphan
+[2026-04-29 17:14:33] Memproses tabel level 1: backup_message_activity_logs
+[2026-04-29 17:14:33] Memproses tabel level 1: backup_orphan_fk_data
+[2026-04-29 17:14:34] Memproses tabel level 1: cache_data
+[2026-04-29 17:14:34] Memproses tabel level 1: email_logs
+[2026-04-29 17:14:34] Memproses tabel level 1: external_senders
+[2026-04-29 17:14:34] Memproses tabel level 1: fonnte_config
+[2026-04-29 17:14:34] Memproses tabel level 1: login_attempts
+[2026-04-29 17:14:34] Memproses tabel level 1: mailersend_config
+[2026-04-29 17:14:34] Memproses tabel level 1: message_types
+[2026-04-29 17:14:34] Memproses tabel level 1: permissions
+[2026-04-29 17:14:34] Memproses tabel level 1: system_settings
+[2026-04-29 17:14:34] Memproses tabel level 1: users
+[2026-04-29 17:14:34] Memproses tabel level 1: users_final_backup
+[2026-04-29 17:14:34] Memproses tabel level 1: whatsapp_devices
+[2026-04-29 17:14:34] Memproses tabel level 2: api_tokens
+[2026-04-29 17:14:34] Memproses tabel level 2: backups
+[2026-04-29 17:14:34] Memproses tabel level 2: message_type_assignments
+[2026-04-29 17:14:34] Memproses tabel level 2: messages
+[2026-04-29 17:14:34] Memproses tabel level 2: notifications
+[2026-04-29 17:14:34] Memproses tabel level 2: response_templates
+[2026-04-29 17:14:34] Memproses tabel level 2: sessions
+[2026-04-29 17:14:34] Memproses tabel level 2: system_logs
+[2026-04-29 17:14:34] Memproses tabel level 2: user_tokens
+[2026-04-29 17:14:34] Memproses tabel level 3: backup_message_activity_logs_orphan
+[2026-04-29 17:14:34] Memproses tabel level 3: message_activity_logs
+[2026-04-29 17:14:34] Memproses tabel level 3: message_attachments
+[2026-04-29 17:14:34] Memproses tabel level 3: message_deletion_log
+[2026-04-29 17:14:34] Memproses tabel level 3: message_responses
+[2026-04-29 17:14:34] Memproses tabel level 3: message_submission_logs
+[2026-04-29 17:14:34] Memproses tabel level 3: wakepsek_reviews
+[2026-04-29 17:14:34] Memproses tabel level 3: whatsapp_logs
+[2026-04-29 17:14:34] Memproses tabel level 4: notification_logs
+[2026-04-29 17:14:34] Memproses view: daily_message_report
+[2026-04-29 17:14:34] Memproses view: guru_performance_report
+[2026-04-29 17:14:34] Memproses view: message_type_statistics
+[2026-04-29 17:14:34] Memproses view: user_activity_report
+[2026-04-29 17:14:34] Memproses view: view_notification_summary
+[2026-04-29 17:14:34] ✓ Backup berhasil! Ukuran: 0.3 MB
+[2026-04-29 17:14:34] File: backup_responsive_message_db_2026-04-29_17-14-33.sql
+[2026-04-29 17:14:34] Total tabel: 35
+[2026-04-29 17:14:34] Total view: 5
+[2026-04-29 17:14:34] Level dependensi: 4
+[2026-05-04 23:31:17] 
+================================================================================
+[2026-05-04 23:31:17] createDatabaseBackup() DIPANGGIL - Full Database Backup Mode
+[2026-05-04 23:31:17] Backup file: C:\FlyEnv-Data\app\apache-2.4.66\Apache24\htdocs\responsive-message-app/backups/backup_responsive_message_db_2026-05-04_23-31-17.sql
+[2026-05-04 23:31:17] Ditemukan 35 tabel dan 5 view
+[2026-05-04 23:31:17] Level dependensi: 4 level
+[2026-05-04 23:31:17] Memproses tabel level 1: audit_logs
+[2026-05-04 23:31:17] Memproses tabel level 1: backup_backups_before_fk
+[2026-05-04 23:31:17] Memproses tabel level 1: backup_backups_orphan
+[2026-05-04 23:31:17] Memproses tabel level 1: backup_message_activity_logs
+[2026-05-04 23:31:17] Memproses tabel level 1: backup_orphan_fk_data
+[2026-05-04 23:31:17] Memproses tabel level 1: cache_data
+[2026-05-04 23:31:17] Memproses tabel level 1: email_logs
+[2026-05-04 23:31:17] Memproses tabel level 1: external_senders
+[2026-05-04 23:31:17] Memproses tabel level 1: fonnte_config
+[2026-05-04 23:31:17] Memproses tabel level 1: login_attempts
+[2026-05-04 23:31:17] Memproses tabel level 1: mailersend_config
+[2026-05-04 23:31:17] Memproses tabel level 1: message_types
+[2026-05-04 23:31:17] Memproses tabel level 1: permissions
+[2026-05-04 23:31:17] Memproses tabel level 1: system_settings
+[2026-05-04 23:31:17] Memproses tabel level 1: users
+[2026-05-04 23:31:17] Memproses tabel level 1: users_final_backup
+[2026-05-04 23:31:18] Memproses tabel level 1: whatsapp_devices
+[2026-05-04 23:31:18] Memproses tabel level 2: api_tokens
+[2026-05-04 23:31:18] Memproses tabel level 2: backups
+[2026-05-04 23:31:18] Memproses tabel level 2: message_type_assignments
+[2026-05-04 23:31:18] Memproses tabel level 2: messages
+[2026-05-04 23:31:18] Memproses tabel level 2: notifications
+[2026-05-04 23:31:18] Memproses tabel level 2: response_templates
+[2026-05-04 23:31:18] Memproses tabel level 2: sessions
+[2026-05-04 23:31:18] Memproses tabel level 2: system_logs
+[2026-05-04 23:31:18] Memproses tabel level 2: user_tokens
+[2026-05-04 23:31:18] Memproses tabel level 3: backup_message_activity_logs_orphan
+[2026-05-04 23:31:18] Memproses tabel level 3: message_activity_logs
+[2026-05-04 23:31:18] Memproses tabel level 3: message_attachments
+[2026-05-04 23:31:18] Memproses tabel level 3: message_deletion_log
+[2026-05-04 23:31:18] Memproses tabel level 3: message_responses
+[2026-05-04 23:31:18] Memproses tabel level 3: message_submission_logs
+[2026-05-04 23:31:18] Memproses tabel level 3: wakepsek_reviews
+[2026-05-04 23:31:18] Memproses tabel level 3: whatsapp_logs
+[2026-05-04 23:31:18] Memproses tabel level 4: notification_logs
+[2026-05-04 23:31:18] Memproses view: daily_message_report
+[2026-05-04 23:31:18] Memproses view: guru_performance_report
+[2026-05-04 23:31:18] Memproses view: message_type_statistics
+[2026-05-04 23:31:18] Memproses view: user_activity_report
+[2026-05-04 23:31:18] Memproses view: view_notification_summary
+[2026-05-04 23:31:18] ✓ Backup berhasil! Ukuran: 0.3 MB
+[2026-05-04 23:31:18] File: backup_responsive_message_db_2026-05-04_23-31-17.sql
+[2026-05-04 23:31:18] Total tabel: 35
+[2026-05-04 23:31:18] Total view: 5
+[2026-05-04 23:31:18] Level dependensi: 4
