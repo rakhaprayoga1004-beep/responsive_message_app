@@ -1,0 +1,407 @@
+[2026-04-04 14:41:09] === LOGIN REQUEST ===
+[2026-04-04 14:41:09] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-04 14:41:09] POST data: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-04 14:41:09] REQUEST_METHOD: POST
+[2026-04-04 14:41:09] Extracted username: 'admin'
+[2026-04-04 14:41:09] Extracted password length: 8
+[2026-04-04 14:41:09] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = :username OR email = :username) 
+            LIMIT 1
+[2026-04-04 14:41:09] EXCEPTION: SQLSTATE[HY093]: Invalid parameter number
+[2026-04-04 14:41:09] Stack trace: #0 C:\xampp\htdocs\responsive-message-app\config\database.php(72): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\responsive-message-app\api\login_flutter.php(147): Database->select('SELECT id, user...', Array)
+#2 {main}
+[2026-04-04 14:41:15] === LOGIN REQUEST ===
+[2026-04-04 14:41:15] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-04 14:41:15] POST data: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-04 14:41:15] REQUEST_METHOD: POST
+[2026-04-04 14:41:15] Extracted username: 'admin'
+[2026-04-04 14:41:15] Extracted password length: 8
+[2026-04-04 14:41:15] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = :username OR email = :username) 
+            LIMIT 1
+[2026-04-04 14:41:15] EXCEPTION: SQLSTATE[HY093]: Invalid parameter number
+[2026-04-04 14:41:15] Stack trace: #0 C:\xampp\htdocs\responsive-message-app\config\database.php(72): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\responsive-message-app\api\login_flutter.php(147): Database->select('SELECT id, user...', Array)
+#2 {main}
+[2026-04-04 14:41:20] === LOGIN REQUEST ===
+[2026-04-04 14:41:20] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-04 14:41:20] POST data: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-04 14:41:20] REQUEST_METHOD: POST
+[2026-04-04 14:41:20] Extracted username: 'admin'
+[2026-04-04 14:41:20] Extracted password length: 8
+[2026-04-04 14:41:20] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = :username OR email = :username) 
+            LIMIT 1
+[2026-04-04 14:41:20] EXCEPTION: SQLSTATE[HY093]: Invalid parameter number
+[2026-04-04 14:41:20] Stack trace: #0 C:\xampp\htdocs\responsive-message-app\config\database.php(72): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\responsive-message-app\api\login_flutter.php(147): Database->select('SELECT id, user...', Array)
+#2 {main}
+[2026-04-04 14:44:30] === LOGIN REQUEST ===
+[2026-04-04 14:44:30] Input received: - Array
+(
+)
+
+[2026-04-04 14:44:30] Username: ''
+[2026-04-04 14:44:30] Password length: 0
+[2026-04-04 14:46:01] === LOGIN REQUEST ===
+[2026-04-04 14:46:01] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-04 14:46:01] Username: 'admin'
+[2026-04-04 14:46:01] Password length: 8
+[2026-04-04 14:46:01] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-04 14:46:01] Query result: User found
+[2026-04-04 14:46:01] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-04 14:46:01] Verifying password...
+[2026-04-04 14:46:01] Password valid: YES
+[2026-04-04 14:46:01] Updated last_login for user: 1
+[2026-04-04 14:46:01] Login successful for: admin
+[2026-04-04 15:22:19] === LOGIN REQUEST ===
+[2026-04-04 15:22:19] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-04 15:22:19] Username: 'admin'
+[2026-04-04 15:22:19] Password length: 8
+[2026-04-04 15:22:19] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-04 15:22:19] Query result: User found
+[2026-04-04 15:22:19] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-04 15:22:19] Verifying password...
+[2026-04-04 15:22:19] Password valid: YES
+[2026-04-04 15:22:19] Updated last_login for user: 1
+[2026-04-04 15:22:19] Login successful for: admin
+[2026-04-04 19:32:42] === LOGIN REQUEST ===
+[2026-04-04 19:32:42] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-04 19:32:42] Username: 'admin'
+[2026-04-04 19:32:42] Password length: 8
+[2026-04-04 19:32:42] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-04 19:32:42] Query result: User found
+[2026-04-04 19:32:42] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-04 19:32:42] Verifying password...
+[2026-04-04 19:32:42] Password valid: YES
+[2026-04-04 19:32:42] Updated last_login for user: 1
+[2026-04-04 19:32:42] Login successful for: admin
+[2026-04-04 22:08:20] === LOGIN REQUEST ===
+[2026-04-04 22:08:20] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-04 22:08:20] Username: 'admin'
+[2026-04-04 22:08:20] Password length: 8
+[2026-04-04 22:08:20] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-04 22:08:20] Query result: User found
+[2026-04-04 22:08:20] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-04 22:08:20] Verifying password...
+[2026-04-04 22:08:20] Password valid: YES
+[2026-04-04 22:08:20] Updated last_login for user: 1
+[2026-04-04 22:08:20] Login successful for: admin
+[2026-04-04 22:08:29] === LOGIN REQUEST ===
+[2026-04-04 22:08:29] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-04 22:08:29] Username: 'admin'
+[2026-04-04 22:08:29] Password length: 8
+[2026-04-04 22:08:29] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-04 22:08:29] Query result: User found
+[2026-04-04 22:08:29] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-04 22:08:29] Verifying password...
+[2026-04-04 22:08:29] Password valid: YES
+[2026-04-04 22:08:29] Updated last_login for user: 1
+[2026-04-04 22:08:29] Login successful for: admin
+[2026-04-04 22:17:23] === LOGIN REQUEST ===
+[2026-04-04 22:17:23] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-04 22:17:23] Username: 'admin'
+[2026-04-04 22:17:23] Password length: 8
+[2026-04-04 22:17:23] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-04 22:17:23] Query result: User found
+[2026-04-04 22:17:23] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-04 22:17:23] Verifying password...
+[2026-04-04 22:17:23] Password valid: YES
+[2026-04-04 22:17:23] Updated last_login for user: 1
+[2026-04-04 22:17:23] Login successful for: admin
+[2026-04-05 13:13:05] === LOGIN REQUEST ===
+[2026-04-05 13:13:05] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-05 13:13:05] Username: 'admin'
+[2026-04-05 13:13:05] Password length: 8
+[2026-04-05 13:13:05] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-05 13:13:05] Query result: User found
+[2026-04-05 13:13:05] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-05 13:13:05] Verifying password...
+[2026-04-05 13:13:05] Password valid: YES
+[2026-04-05 13:13:05] Updated last_login for user: 1
+[2026-04-05 13:13:05] Login successful for: admin
+[2026-04-05 13:49:42] === LOGIN REQUEST ===
+[2026-04-05 13:49:42] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-05 13:49:42] Username: 'admin'
+[2026-04-05 13:49:42] Password length: 8
+[2026-04-05 13:49:42] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-05 13:49:42] Query result: User found
+[2026-04-05 13:49:42] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-05 13:49:42] Verifying password...
+[2026-04-05 13:49:43] Password valid: YES
+[2026-04-05 13:49:43] Updated last_login for user: 1
+[2026-04-05 13:49:43] Login successful for: admin
+[2026-04-05 13:50:15] === LOGIN REQUEST ===
+[2026-04-05 13:50:15] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-05 13:50:15] Username: 'admin'
+[2026-04-05 13:50:15] Password length: 8
+[2026-04-05 13:50:15] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-05 13:50:15] Query result: User found
+[2026-04-05 13:50:15] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-05 13:50:15] Verifying password...
+[2026-04-05 13:50:15] Password valid: YES
+[2026-04-05 13:50:15] Updated last_login for user: 1
+[2026-04-05 13:50:15] Login successful for: admin
+[2026-04-05 13:57:59] === LOGIN REQUEST ===
+[2026-04-05 13:57:59] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-05 13:57:59] Username: 'admin'
+[2026-04-05 13:57:59] Password length: 8
+[2026-04-05 13:57:59] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-05 13:57:59] Query result: User found
+[2026-04-05 13:57:59] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-05 13:57:59] Verifying password...
+[2026-04-05 13:57:59] Password valid: YES
+[2026-04-05 13:57:59] Updated last_login for user: 1
+[2026-04-05 13:57:59] Login successful for: admin
+[2026-04-05 14:07:39] === LOGIN REQUEST ===
+[2026-04-05 14:07:39] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-05 14:07:39] Username: 'admin'
+[2026-04-05 14:07:39] Password length: 8
+[2026-04-05 14:07:39] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-05 14:07:39] Query result: User found
+[2026-04-05 14:07:39] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-05 14:07:39] Verifying password...
+[2026-04-05 14:07:39] Password valid: YES
+[2026-04-05 14:07:39] Updated last_login for user: 1
+[2026-04-05 14:07:39] Login successful for: admin
+[2026-04-05 14:07:57] === LOGIN REQUEST ===
+[2026-04-05 14:07:57] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-05 14:07:57] Username: 'admin'
+[2026-04-05 14:07:57] Password length: 8
+[2026-04-05 14:07:57] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-05 14:07:57] Query result: User found
+[2026-04-05 14:07:57] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-05 14:07:57] Verifying password...
+[2026-04-05 14:07:57] Password valid: YES
+[2026-04-05 14:07:57] Updated last_login for user: 1
+[2026-04-05 14:07:57] Login successful for: admin
+[2026-04-05 14:42:59] === LOGIN REQUEST ===
+[2026-04-05 14:42:59] Input received: - Array
+(
+    [username] => admin
+    [password] => password
+)
+
+[2026-04-05 14:42:59] Username: 'admin'
+[2026-04-05 14:42:59] Password length: 8
+[2026-04-05 14:42:59] SQL Query: SELECT id, username, password_hash, nama_lengkap, user_type, email, 
+                   phone_number, avatar, privilege_level, is_active 
+            FROM users 
+            WHERE (username = ? OR email = ?) 
+            LIMIT 1
+[2026-04-05 14:42:59] Query result: User found
+[2026-04-05 14:42:59] User found: - Array
+(
+    [id] => 1
+    [username] => admin
+)
+
+[2026-04-05 14:42:59] Verifying password...
+[2026-04-05 14:42:59] Password valid: YES
+[2026-04-05 14:42:59] Updated last_login for user: 1
+[2026-04-05 14:42:59] Login successful for: admin
