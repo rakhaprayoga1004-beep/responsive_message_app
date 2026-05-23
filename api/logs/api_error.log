@@ -1,0 +1,5 @@
+[08-Apr-2026 19:40:16 Asia/Jakarta] PHP Warning:  require_once(C:\xampp\htdocs\responsive-message-app\api/config/config.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\responsive-message-app\api\message_types\stats.php on line 24
+[08-Apr-2026 19:40:16 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\responsive-message-app\api/config/config.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\responsive-message-app\api\message_types\stats.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\responsive-message-app\api\message_types\stats.php on line 24
