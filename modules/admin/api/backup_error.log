@@ -1,0 +1,94 @@
+2026-04-29 17:08:02 - Starting backup process...
+2026-04-29 17:08:02 - Root path: C:\xampp\htdocs\responsive-message-app
+2026-04-29 17:08:02 - Config path: C:\xampp\htdocs\responsive-message-app/config/config.php
+2026-04-29 17:08:02 - Connecting to database: 127.0.0.1:3307/responsive_message_db
+2026-04-29 17:08:02 - Database connected successfully
+2026-04-29 17:08:02 - Found 40 tables
+2026-04-29 17:08:02 - Backing up table: api_tokens
+2026-04-29 17:08:02 - Backing up table: audit_logs
+2026-04-29 17:08:02 - Backing up table: backup_backups_before_fk
+2026-04-29 17:08:02 - Backing up table: backup_backups_orphan
+2026-04-29 17:08:02 - Backing up table: backup_message_activity_logs
+2026-04-29 17:08:02 - Backing up table: backup_message_activity_logs_orphan
+2026-04-29 17:08:02 - Backing up table: backup_orphan_fk_data
+2026-04-29 17:08:02 - Backing up table: backups
+2026-04-29 17:08:02 - Backing up table: cache_data
+2026-04-29 17:08:02 - Backing up table: daily_message_report
+2026-04-29 17:08:02 - Backing up table: email_logs
+2026-04-29 17:08:02 - Backing up table: external_senders
+2026-04-29 17:08:02 - Backing up table: fonnte_config
+2026-04-29 17:08:02 - Backing up table: guru_performance_report
+2026-04-29 17:08:02 - Backing up table: login_attempts
+2026-04-29 17:08:02 - Backing up table: mailersend_config
+2026-04-29 17:08:02 - Backing up table: message_activity_logs
+2026-04-29 17:08:02 - Backing up table: message_attachments
+2026-04-29 17:08:02 - Backing up table: message_deletion_log
+2026-04-29 17:08:02 - Backing up table: message_responses
+2026-04-29 17:08:02 - Backing up table: message_submission_logs
+2026-04-29 17:08:02 - Backing up table: message_type_assignments
+2026-04-29 17:08:02 - Backing up table: message_type_statistics
+2026-04-29 17:08:02 - Backing up table: message_types
+2026-04-29 17:08:02 - Backing up table: messages
+2026-04-29 17:08:02 - Backing up table: notification_logs
+2026-04-29 17:08:02 - Backing up table: notifications
+2026-04-29 17:08:02 - Backing up table: permissions
+2026-04-29 17:08:02 - Backing up table: response_templates
+2026-04-29 17:08:02 - Backing up table: sessions
+2026-04-29 17:08:02 - Backing up table: system_logs
+2026-04-29 17:08:02 - Backing up table: system_settings
+2026-04-29 17:08:02 - Backing up table: user_activity_report
+2026-04-29 17:08:02 - Backing up table: user_tokens
+2026-04-29 17:08:02 - Backing up table: users
+2026-04-29 17:08:02 - Backing up table: users_final_backup
+2026-04-29 17:08:02 - Backing up table: view_notification_summary
+2026-04-29 17:08:02 - Backing up table: wakepsek_reviews
+2026-04-29 17:08:02 - Backing up table: whatsapp_devices
+2026-04-29 17:08:02 - Backing up table: whatsapp_logs
+2026-04-29 17:08:02 - Backup completed: backup_responsive_message_db_2026-04-29_17-08-02.sql (299.27 KB)
+2026-04-29 17:12:40 - Starting backup process...
+2026-04-29 17:12:40 - Root path: C:\xampp\htdocs\responsive-message-app
+2026-04-29 17:12:40 - Config path: C:\xampp\htdocs\responsive-message-app/config/config.php
+2026-04-29 17:12:40 - Connecting to database: 127.0.0.1:3307/responsive_message_db
+2026-04-29 17:12:40 - Database connected successfully
+2026-04-29 17:12:40 - Found 40 tables
+2026-04-29 17:12:40 - Backing up table: api_tokens
+2026-04-29 17:12:40 - Backing up table: audit_logs
+2026-04-29 17:12:40 - Backing up table: backup_backups_before_fk
+2026-04-29 17:12:40 - Backing up table: backup_backups_orphan
+2026-04-29 17:12:40 - Backing up table: backup_message_activity_logs
+2026-04-29 17:12:40 - Backing up table: backup_message_activity_logs_orphan
+2026-04-29 17:12:40 - Backing up table: backup_orphan_fk_data
+2026-04-29 17:12:40 - Backing up table: backups
+2026-04-29 17:12:40 - Backing up table: cache_data
+2026-04-29 17:12:40 - Backing up table: daily_message_report
+2026-04-29 17:12:40 - Backing up table: email_logs
+2026-04-29 17:12:40 - Backing up table: external_senders
+2026-04-29 17:12:40 - Backing up table: fonnte_config
+2026-04-29 17:12:40 - Backing up table: guru_performance_report
+2026-04-29 17:12:40 - Backing up table: login_attempts
+2026-04-29 17:12:40 - Backing up table: mailersend_config
+2026-04-29 17:12:40 - Backing up table: message_activity_logs
+2026-04-29 17:12:40 - Backing up table: message_attachments
+2026-04-29 17:12:40 - Backing up table: message_deletion_log
+2026-04-29 17:12:40 - Backing up table: message_responses
+2026-04-29 17:12:40 - Backing up table: message_submission_logs
+2026-04-29 17:12:40 - Backing up table: message_type_assignments
+2026-04-29 17:12:40 - Backing up table: message_type_statistics
+2026-04-29 17:12:40 - Backing up table: message_types
+2026-04-29 17:12:40 - Backing up table: messages
+2026-04-29 17:12:40 - Backing up table: notification_logs
+2026-04-29 17:12:40 - Backing up table: notifications
+2026-04-29 17:12:40 - Backing up table: permissions
+2026-04-29 17:12:40 - Backing up table: response_templates
+2026-04-29 17:12:40 - Backing up table: sessions
+2026-04-29 17:12:40 - Backing up table: system_logs
+2026-04-29 17:12:40 - Backing up table: system_settings
+2026-04-29 17:12:40 - Backing up table: user_activity_report
+2026-04-29 17:12:40 - Backing up table: user_tokens
+2026-04-29 17:12:40 - Backing up table: users
+2026-04-29 17:12:40 - Backing up table: users_final_backup
+2026-04-29 17:12:40 - Backing up table: view_notification_summary
+2026-04-29 17:12:40 - Backing up table: wakepsek_reviews
+2026-04-29 17:12:40 - Backing up table: whatsapp_devices
+2026-04-29 17:12:40 - Backing up table: whatsapp_logs
+2026-04-29 17:12:40 - Backup completed: backup_responsive_message_db_2026-04-29_17-12-40.sql (299.27 KB)
